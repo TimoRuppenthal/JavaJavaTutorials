@@ -1,4 +1,4 @@
-package Tutorial_6;
+package DerModuloOperator;
 
 public class DerModuloOperator //Restwert Operator, gibt den "Rest" aus der übrig bleibt 
                                //funktioniert nur bei Ganzzahlen

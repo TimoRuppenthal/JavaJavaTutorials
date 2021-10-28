@@ -1,4 +1,4 @@
-package Tutorial_11;
+package ForSchleife;
 
 public class ForSchleife {
     public static void main(String[] args)

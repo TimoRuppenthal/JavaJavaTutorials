@@ -1,6 +1,4 @@
-package Tutorial_13;
-
-import java.sql.SQLOutput;
+package Arrays;
 
 public class Arrays {
 

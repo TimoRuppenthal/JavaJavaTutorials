@@ -1,4 +1,4 @@
-package Tutorial_4;
+package DieKlasseString;
 
 public class Die_Klasse_String
 {

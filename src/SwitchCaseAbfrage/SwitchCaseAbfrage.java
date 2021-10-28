@@ -1,4 +1,4 @@
-package Tutorial_8;
+package SwitchCaseAbfrage;
 
 public class SwitchCaseAbfrage {
     public static void main(String[] args)

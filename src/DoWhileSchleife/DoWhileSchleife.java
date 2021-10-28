@@ -1,4 +1,4 @@
-package Tutorial_10;
+package DoWhileSchleife;
 
 public class DoWhileSchleife {
     public static void main(String[] args)

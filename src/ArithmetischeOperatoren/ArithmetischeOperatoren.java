@@ -1,4 +1,4 @@
-package Tutorial_5;
+package ArithmetischeOperatoren;
 
 public class ArithmetischeOperatoren {
     public static void main(String[] args)

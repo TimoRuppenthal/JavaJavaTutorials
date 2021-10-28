@@ -1,4 +1,4 @@
-package Tutorial_7;
+package IfAbfragen;
 
 public class IfAbfragen {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package Tutorial_9;
+package WhileSchleife;
 
 public class WhileSchleife {
     public static void main(String[] args)
